@@ -1,0 +1,5 @@
+A file used
+for testing the simple
+grep funcion created for
+solving an assignment
+testing search_string
